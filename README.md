@@ -2,7 +2,19 @@
 
 # Hi 👋, I'm Mohamed Abdelhay
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Data+Scientist;Machine+Learning+Enthusiast;Agricultural+Engineering+Student;Solar+Energy+Researcher" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Data+Scientist;Machine+Learning+Enthusiast;Agricultural+Engineering+Student;Solar+Energy+Researcher" alt="Typing SVG" />
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-abdelhay-3361a2308">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://portfolio-mohamed-abdelha777.streamlit.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:abdelhaym953@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 </div>
 
@@ -10,96 +22,64 @@
 
 ## 🚀 About Me
 
-🌞 Passionate about Solar Energy and Artificial Intelligence
-
-📊 Interested in Data Analysis, Machine Learning, and Dashboard Development
-
-🎓 Agricultural Engineering Student
-
-💡 Always learning and building new projects
+* 🌞 **Domain Focus:** Passionate about merging Agricultural Engineering with Solar Energy and Artificial Intelligence.
+* 📊 **Technical Interests:** Specialized in Data Analysis, Machine Learning, Predictive Modeling, and Interactive Dashboard Development.
+* 🎓 **Education:** Agricultural Engineering Student, constantly looking for ways to optimize sustainable energy through data.
+* 💡 **Mindset:** Always learning, experimenting with new frameworks, and building end-to-end data products.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+  <samp><b>Languages & Tools</b></samp><br>
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" alt="Tools" />
 </p>
 
 <p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,streamlit" />
+  <samp><b>Data Science & AI Frameworks</b></samp><br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,streamlit" alt="Data Science" />
 </p>
 
 ---
 
 ## 📂 Featured Projects
 
-🌞 **Solar Energy Prediction**
+### 🌞 [Solar Energy Prediction](https://github.com/abdelhaym953-create) _(ضع رابط المشروع هنا)_
+> Predicting solar radiation using advanced Machine Learning models to optimize renewable energy integration.
 
-Predicting solar radiation using Machine Learning models.
+### 📈 [Online Sales Dashboard](https://github.com/abdelhaym953-create) _(ضع رابط المشروع هنا)_
+> An interactive and dynamic dashboard built to track, analyze, and visualize e-commerce sales performance.
 
-📈 **Online Sales Dashboard**
+### 🏨 [Hotel Booking Intelligence Dashboard](https://github.com/abdelhaym953-create) _(ضع رابط المشروع هنا)_
+> Comprehensive data analysis and visualization showcasing business insights and hotel booking trends.
 
-Interactive dashboard for analyzing sales performance.
-
-🏨 **Hotel Booking Intelligence Dashboard**
-
-Data analysis and visualization for hotel booking trends.
-
-🤖 **DataVision-AI**
-
-AI-powered data analytics project.
+### 🤖 [DataVision-AI](https://github.com/abdelhaym953-create) _(ضع رابط المشروع هنا)_
+> An AI-powered data analytics platform designed to streamline exploratory data analysis.
 
 ---
 
-## 🌐 Connect With Me
+## 📊 GitHub Analytics
 
 <p align="center">
-<a href="mailto:abdelhaym953@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
-</a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdelhaym953-create&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelhaym953-create&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-<a href="https://portfolio-mohamed-abdelha777.streamlit.app/">
-<img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge">
-</a>
-
-<a href="https://www.linkedin.com/in/mohamed-abdelhay-3361a2308">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelhaym953-create&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 🐍 Contribution History
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdelhaym953-create&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelhaym953-create&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelhaym953-create&theme=tokyonight"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
 
 <div align="center">
-
-![](https://komarev.com/ghpvc/?username=abdelhaym953-create\&color=blue)
-
+  <img src="https://komarev.com/ghpvc/?username=abdelhaym953-create&color=00C4FF&style=flat-square" alt="Profile Views" />
 </div>
