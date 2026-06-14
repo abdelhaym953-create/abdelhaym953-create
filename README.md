@@ -45,30 +45,16 @@
 
 ## 📂 Featured Projects
 
-### 🌞 [Solar Energy Prediction](https://github.com/abdelhaym953-create) _(ضع رابط المشروع هنا)_
-> Predicting solar radiation using advanced Machine Learning models to optimize renewable energy integration.
+<div align="center">
 
-### 📈 [Online Sales Dashboard](https://github.com/abdelhaym953-create) _(ضع رابط المشروع هنا)_
-> An interactive and dynamic dashboard built to track, analyze, and visualize e-commerce sales performance.
+| 📑 Project Name |
+| :--- |
+| 🌞 **[Solar Energy Prediction](https://github.com/abdelhaym953-create)** |
+| 📈 **[Online Sales Dashboard](https://github.com/abdelhaym953-create)** |
+| 🏨 **[Hotel Booking Intelligence Dashboard](https://github.com/abdelhaym953-create)** |
+| 🤖 **[DataVision-AI](https://github.com/abdelhaym953-create)** |
 
-### 🏨 [Hotel Booking Intelligence Dashboard](https://github.com/abdelhaym953-create) _(ضع رابط المشروع هنا)_
-> Comprehensive data analysis and visualization showcasing business insights and hotel booking trends.
-
-### 🤖 [DataVision-AI](https://github.com/abdelhaym953-create) _(ضع رابط المشروع هنا)_
-> An AI-powered data analytics platform designed to streamline exploratory data analysis.
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdelhaym953-create&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelhaym953-create&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelhaym953-create&theme=tokyonight" alt="GitHub Streak" />
-</p>
+</div>
 
 ---
 
