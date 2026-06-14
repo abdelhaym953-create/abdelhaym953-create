@@ -2,9 +2,7 @@
 
 # Hi 👋, I'm Mohamed Abdelhay
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&random=false&width=700&lines=Data+Scientist;Machine+Learning+Enthusiast;Solar+Energy+Researcher;Always+Learning+New+Things" />
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWFwdmY5ZnhjN2t6ODN6NGpkdjN0ejRzNjNqNm53MnhjYm5vbjJ5aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="500">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Data+Scientist;Machine+Learning+Enthusiast;Agricultural+Engineering+Student;Solar+Energy+Researcher" />
 
 </div>
 
@@ -12,10 +10,13 @@
 
 ## 🚀 About Me
 
-* 🌞 Passionate about Solar Energy and Artificial Intelligence
-* 📊 Interested in Data Analysis and Machine Learning
-* 🎓 Agricultural Engineering Student
-* 💡 Building Data Science Projects
+🌞 Passionate about Solar Energy and Artificial Intelligence
+
+📊 Interested in Data Analysis, Machine Learning, and Dashboard Development
+
+🎓 Agricultural Engineering Student
+
+💡 Always learning and building new projects
 
 ---
 
@@ -25,12 +26,46 @@
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
 </p>
 
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,streamlit" />
+</p>
+
 ---
 
-## 🏆 GitHub Trophies
+## 📂 Featured Projects
+
+🌞 **Solar Energy Prediction**
+
+Predicting solar radiation using Machine Learning models.
+
+📈 **Online Sales Dashboard**
+
+Interactive dashboard for analyzing sales performance.
+
+🏨 **Hotel Booking Intelligence Dashboard**
+
+Data analysis and visualization for hotel booking trends.
+
+🤖 **DataVision-AI**
+
+AI-powered data analytics project.
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abdelhaym953-create&theme=tokyonight&row=1&column=7"/>
+<a href="mailto:abdelhaym953@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://portfolio-mohamed-abdelha777.streamlit.app/">
+<img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge">
+</a>
+
+<a href="https://www.linkedin.com/in/mohamed-abdelhay-3361a2308">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
 </p>
 
 ---
@@ -55,22 +90,10 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<a href="mailto:abdelhaym953@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://portfolio-mohamed-abdelha777.streamlit.app/">
-<img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge">
-</a>
-
-<a href="https://www.linkedin.com/in/mohamed-abdelhay-3361a2308">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
