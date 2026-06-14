@@ -70,6 +70,26 @@ AI-powered data analytics project.
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdelhaym953-create&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelhaym953-create&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelhaym953-create&theme=tokyonight"/>
+</p>
+
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
