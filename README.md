@@ -45,16 +45,25 @@
 
 ## 📂 Featured Projects
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/abdelhaym953-create/solar-energy-prediction">
+    <img src="https://img.shields.io/badge/🌞_Solar_Energy_Prediction-00C4FF?style=for-the-badge&logo=github&logoColor=white" alt="Project 1" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/abdelhaym953-create/Online-Sales-Dashboard">
+    <img src="https://img.shields.io/badge/📈_Online_Sales_Dashboard-238636?style=for-the-badge&logo=github&logoColor=white" alt="Project 2" />
+  </a>
+</p>
 
-| 📑 Project Name |
-| :--- |
-| 🌞 **[Solar Energy Prediction](https://github.com/abdelhaym953-create)** |
-| 📈 **[Online Sales Dashboard](https://github.com/abdelhaym953-create)** |
-| 🏨 **[Hotel Booking Intelligence Dashboard](https://github.com/abdelhaym953-create)** |
-| 🤖 **[DataVision-AI](https://github.com/abdelhaym953-create)** |
-
-</div>
+<p align="center">
+  <a href="https://github.com/abdelhaym953-create/Hotel-Booking-Intelligence-Dashboard">
+    <img src="https://img.shields.io/badge/🏨_Hotel_Booking_Intelligence-8957E5?style=for-the-badge&logo=github&logoColor=white" alt="Project 3" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/abdelhaym953-create/DataVision-AI">
+    <img src="https://img.shields.io/badge/🤖_DataVision--AI-D14836?style=for-the-badge&logo=github&logoColor=white" alt="Project 4" />
+  </a>
+</p>
 
 ---
 
